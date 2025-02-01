@@ -1,2 +1,2 @@
 # HSE_cv
-Computer vision course at HSE 
+seminar 1 for the computer vision course at HSE 
